@@ -19,11 +19,11 @@
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
     "@types/file-saver": "^2.0.5",
-    "cloudinary": "^1.41.2",
+    "cloudinary": "^2.7.0",
     "easy-localized-translation": "^1.1.0",
     "file-saver": "^2.0.5",
     "lerna": "^4.0.0",
-    "liquidjs": "^9.34.1",
+    "liquidjs": "^10.25.0",
     "posthog-js": "^1.76.0"
   },
   "devDependencies": {
